@@ -1,0 +1,1 @@
+<button {{ $attributes(['class' => 'flex select-none items-center gap-2 rounded bg-slate-800 py-2.5 px-4 text-xs font-semibold text-white shadow-md']) }}>{{ $slot }}</button>
